@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/997acf8b-be3e-461f-9652-1d4b32ccdd41)# Rolling VWAP Indicator (7D, 30D, 90D, 365D)
+# Rolling VWAP Indicator (7D, 30D, 90D, 365D)
 
 This Pine Script calculates and plots the Rolling Volume-Weighted Average Price (VWAP) for different time windows: 7 days, 30 days, 90 days, and 365 days.
 
