@@ -1,2 +1,19 @@
-# rvwap
-A Pine Script indicator for TradingView that calculates and plots the Rolling Volume-Weighted Average Price (VWAP) for 7-day, 30-day, 90-day, and 365-day time windows.
+# Rolling VWAP Indicator (7D, 30D, 90D, 365D)
+
+This Pine Script calculates and plots the Rolling Volume-Weighted Average Price (VWAP) for different time windows: 7 days, 30 days, 90 days, and 365 days.
+
+## Features
+
+- Displays the rolling VWAP for various time periods: 7D, 30D, 90D, and 365D.
+- Customizable appearance (line width, price type, color settings).
+- Option to show or hide each VWAP line and labels.
+  
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Usage
+
+1. Copy the script into your TradingView account.
+2. Customize the inputs (visibility, colors, line width) as needed.
+3. Enjoy your Rolling VWAP indicators!
