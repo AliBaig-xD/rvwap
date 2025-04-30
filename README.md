@@ -18,6 +18,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. Customize the inputs (visibility, colors, line width) as needed.
 3. Enjoy your Rolling VWAP indicators!
 
+**Add to TradingView**  
+[Rolling VWAPs - 7D, 30D, 90D, 365D](https://www.tradingview.com/script/BJoDDdOu-Rolling-VWAPs-7D-30D-90D-365D/)
+
 ## Screenshot
 
 ![Rolling VWAP Preview](https://github.com/user-attachments/assets/81374d07-5658-4d96-a10a-f9fecf43b1bb)
